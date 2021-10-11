@@ -12,7 +12,7 @@ public class application {
 		//or
 		System.out.println(text + blank + name);
 		//or
-		System.out.println("Hello" + " " + "Fafa");
+		System.out.println("Hello" + " " + "Fafa"); // This method is quite literaaly pointless cause there are better ways to output info
 		
 		//Strings can also be concatenated with other data types
 		int age = 18;
